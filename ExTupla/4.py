@@ -1,0 +1,1 @@
+n = (str(input('Nome:')), int(input('Telefone:')), input('Email:'))
